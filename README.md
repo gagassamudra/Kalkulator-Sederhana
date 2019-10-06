@@ -1,2 +1,2 @@
-# Kalkulator-Sederhana
+# Kalkulator Sederhana
 PEMROGRAMAN DASAR C++
